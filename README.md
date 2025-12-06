@@ -20,6 +20,7 @@ A premium, CLI-based music streamer built for audiophiles who live in the termin
 
 * **🎛 Dual-Deck Audio Engine:** Two independent VLC instances manage current and next tracks, enabling true overlap crossfading for a surreal audio experience.
 * **🌊 Seamless Playback:** Zero-latency transitions. The next song is pre-buffered and "warmed up" in the background before the current song ends.
+* **➿ Looping Feature:** Allows you to play your favourite track, one time or indefenitely.
 * **📊 Live Visualizer:** A responsive, multi-row spectrum analyzer built entirely with ASCII/Unicode blocks.
 * **⚡ Zero-Lag UI:** The audio engine runs on high-priority threads, ensuring the UI remains buttery smooth (60fps) even during network fetches.
 * **🧠 Smart Caching:** Playlist searches are cached locally (`.json`). Re-playing a 100-song playlist is instant.
@@ -44,6 +45,7 @@ python streamer.py
 | Keys     |                    Actions                      |
 | -------- | ------------------------------------------------|
 | s        |               search for a song                 |
+| l        |  Loops through 3 modes: OFF, ONE LOOP, INFINITE |
 | i        |     import a playlist file (playlist.txt)       |
 | Enter    | Play the currently selected song (Jump to track)|
 | p        |                Pause playback                   |
