@@ -26,7 +26,7 @@ A premium, CLI-based music streamer built for audiophiles who live in the termin
 * **📂 Easy Import:** Import playlists via simple `.txt` files.
 
 ## 🖼️ Demo
-![Demo for Resonance](https://github.com/Joel-Shine/Resonance/blob/main/demo.png)
+![Demo for Resonance](https://github.com/Joel-Shine/Resonance/blob/main/demo.PNG)
 
 ## 🛠️ Installation
 ### !! Currently Resonance is supported only in Windows. 
