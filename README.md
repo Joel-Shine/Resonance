@@ -31,7 +31,7 @@ Resonance relies on **VLC Media Player** for its audio decoding core.
 * **Windows:** Install [VLC Media Player](https://www.videolan.org/vlc/).
 * **FFmpeg:** (Optional but recommended) Install FFmpeg and add it to your PATH for better stream handling.
 
-###🚀 Usage
+### 🚀 Usage
 Run the player directly from your terminal:
 ```bash
 python streamer.py
