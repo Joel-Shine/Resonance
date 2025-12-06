@@ -25,6 +25,9 @@ A premium, CLI-based music streamer built for audiophiles who live in the termin
 * **🧠 Smart Caching:** Playlist searches are cached locally (`.json`). Re-playing a 100-song playlist is instant.
 * **📂 Easy Import:** Import playlists via simple `.txt` files.
 
+## 🖼️ Demo
+![Demo for Resonance](https://github.com/Joel-Shine/Resonance/blob/main/demo.png)
+
 ## 🛠️ Installation
 ### !! Currently Resonance is supported only in Windows. 
 Resonance relies on **VLC Media Player** for its audio decoding core.
